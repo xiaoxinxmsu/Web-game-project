@@ -1,19 +1,7 @@
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
 ## Getting Started
-
-1.  Clone the repo:
-
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
-
-2.  Install dependencies:
-
-        yarn
-
-    or
-
-        npm install
-
+1.  Install all packages and change the image path in canvas.js
 3.  Run webpack:
 
         npm start
